@@ -4,7 +4,7 @@ Geek's io 帮你处理微信的消息收发，微信就是你的io，而你就�
 
 首先添加 Geek's io 好友：
 
-## <img src="https://github.com/chaovinci/geeksio/geeksio_qrcode.png" height="56"/>
+## <img src="https://github.com/chaovinci/geeksio/blob/main/geeksio_qrcode.png" height="56"/>
 
 你发送的消息，会被转发到你的hook 地址
 
