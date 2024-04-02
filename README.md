@@ -1,5 +1,5 @@
 # geeksio
-Geek's io 帮你处理微信的消息收发，微信就是你的io，而你就专注于给自己的助理增加新功能了。
+Geek's io 帮你处理微信的消息收发，微信就是你的io，而你就可以专注于给自己的助理增加新功能了。
 
 另外分享大家做的助理，让大家可以直接使用，不用再重复造轮子了。
 
@@ -9,7 +9,7 @@ Geek's io 帮你处理微信的消息收发，微信就是你的io，而你就�
 
 你发送的消息，会被转发到你的hook 地址
 
-你处理处理完后，将回复信息发送到 https://msg.io.sapling.pro
+你处理处理完后，将回复信息发送到 https://msg.io.sapling.pro 
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"text":"yourmessage", "token": "yourtoken"}' https://msg.io.sapling.pro
 
