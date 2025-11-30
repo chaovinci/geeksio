@@ -51,9 +51,6 @@ Bullet lists nested within numbered list:
 
 ![](InvalidURL)
 
-# Header
-Abc
-
 ![title](https://url.com/image.jpg)
 
 
