@@ -51,7 +51,7 @@ Bullet lists nested within numbered list:
 
 ![](InvalidURL)
 
-![title](https://url.com/image.jpg)
+![title](https://picsum.photos/id/870/200/300?grayscale&blur=2)
 
 
 Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following
