@@ -10,6 +10,8 @@ produce a line break.
 
 Text attributes _italic_, **bold**, `monospace`.
 
+***
+
 Horizontal rule:
 
 ---
@@ -32,27 +34,9 @@ Bullet lists nested within numbered list:
 > This is a regular blockquote  
 > It can span multiple lines
 
-> [!NOTE]
-> Important information that users should know  
-> Plus line  
 
-> [!WARNING]
-> Critical information that needs attention
 
-> 📘 **Note:** This is a callout with a blue background  
-> It supports all markdown formatting and can span multiple lines
-
-> ❗ **Warning:** This is a callout with a red background  
-> Perfect for important warnings  
-
-> A regular blockquote
-
-> [!NOTE]\n> Important information
-
-![](InvalidURL)
-
-![title](https://picsum.photos/id/870/200/300?grayscale&blur=2)
-
+![title](https://speckit.cn/qr.png)
 
 Lift($L$) can be determined by Lift Coefficient ($C_L$) like the following
 equation.
@@ -84,12 +68,6 @@ var foo = 1;
 }
 </pre>
 </details>
-
-
-```md
-> 📘 **Note:** This is a callout with a blue background
-> It supports all markdown formatting and can span multiple lines
-```
 
 
 The current supported color mappings are:
