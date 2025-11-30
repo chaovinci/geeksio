@@ -48,6 +48,7 @@ hello _world_
 
 > [!NOTE]
 > Important information that users should know
+> Plus line
 
 > [!WARNING]
 > Critical information that needs attention
